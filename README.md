@@ -1,3 +1,5 @@
+![please] (minsalaco80.github.io/_site/index_files/figure-html/unnamed-chunk-1-1.png)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/minsalaco80/minsalaco80.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -15,7 +17,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-![please] (minsalaco80.github.io/_site/index_files/figure-html/unnamed-chunk-1-1.png)
+
 - Bulleted
 - List
 
