@@ -1,4 +1,5 @@
-![please] (https://github.com/minsalaco80/minsalaco80.github.io/blob/master/_site/index_files/figure-html/unnamed-chunk-1-1.png)
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 ## Welcome to GitHub Pages
 
